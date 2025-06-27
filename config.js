@@ -9,7 +9,7 @@ const companyConfig = {
         address: " Sai villa complex shop no 9 fulsar chitra ,bhavnagar, Gujarat 364004"
     },
     socialMedia: {
-        whatsapp: "https://wa.me/916355604903",
+        whatsapp: "https://wa.me/919033311330",
         // instagram: "https://instagram.com/jdkgroupofficial",
         // linkedin: "https://linkedin.com/company/jdk-group",
         // website: "https://jdkgroup.in/",
